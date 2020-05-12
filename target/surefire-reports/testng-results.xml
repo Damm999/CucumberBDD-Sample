@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Cucumber Framework" duration-ms="38733" started-at="2020-05-07T12:47:01Z" finished-at="2020-05-07T12:47:39Z">
+    <groups>
+    </groups>
+    <test name="Cucumber Tests" duration-ms="38733" started-at="2020-05-07T12:47:01Z" finished-at="2020-05-07T12:47:39Z">
+    </test> <!-- Cucumber Tests -->
+  </suite> <!-- Cucumber Framework -->
+</testng-results>
